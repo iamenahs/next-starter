@@ -206,3 +206,17 @@ images: {
   ],
 }
 ```
+
+## 🤝 Contribution
+To contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes, and commit them.
+4. Push your changes to the forked repository.
+5. Create a pull request.
+
+## ❤️ Support
+
+If you liked the project, I will appreciate if you leave a star. 🌟😊
+
+Originally made by <a href="https://michalskolak.netlify.app/">Michał Skolak</a>, enhanced by <a href="https://github.com/iamenahs/">Shane</a> 
